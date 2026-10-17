@@ -220,8 +220,13 @@ A personal portfolio for showcasing my development background and projects.
 
 <br/>
 
-*Building the future, one practical project at a time.*
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=70&section=footer&color=071426" width="100%" alt="Midnight blue footer" />
+### `BUILD • LEARN • INNOVATE`
+
+*Building intelligent solutions. Engineering ideas into reality.*
+
+
+</div>
 
 </div>
