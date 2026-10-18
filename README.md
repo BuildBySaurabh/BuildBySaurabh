@@ -24,7 +24,7 @@
 
 ---
 
-## `01` — About Me
+## About Me
 
 Hi, I'm **Saurabh Waghmare**, a Python Full Stack Developer with **3+ years of professional experience** building web applications, REST APIs, and database-driven solutions.
 
@@ -39,7 +39,7 @@ I enjoy backend engineering, building practical frontend experiences, and explor
 
 ---
 
-## `02` — Featured Projects
+## Featured Projects
 
 <table>
 <tr>
@@ -106,7 +106,7 @@ A personal portfolio for showcasing my development background and projects.
 
 ---
 
-## `03` — Languages & Technologies
+## Languages & Technologies
 
 ### Programming languages
 
@@ -195,7 +195,7 @@ A personal portfolio for showcasing my development background and projects.
 
 ---
 
-## `04` — GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -210,7 +210,7 @@ A personal portfolio for showcasing my development background and projects.
 
 ---
 
-## `05` — Connect
+## Connect
 
 <div align="center">
 
