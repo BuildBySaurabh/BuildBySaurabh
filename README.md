@@ -14,7 +14,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=BuildBySaurabh&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" alt="Profile views" />
+<!-- <img src="https://komarev.com/ghpvc/?username=BuildBySaurabh&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" alt="Profile views" /> -->
 
 [![GitHub](https://img.shields.io/badge/GitHub-BuildBySaurabh-0B1F3A?style=for-the-badge&logo=github&logoColor=60A5FA)](https://github.com/BuildBySaurabh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=60A5FA)](https://www.linkedin.com/in/saurabh-waghamre-3a4412245)
